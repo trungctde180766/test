@@ -1,0 +1,46 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn An",
+      "age": 30,
+      "gender": "Male",
+      "address": "Quảng Nam"
+    },
+    {
+      "id": "2",
+      "name": "Trần Thị Vân",
+      "age": 25,
+      "gender": "Female",
+      "address": "Thừa Thiên Huế"
+    },
+    {
+      "name": "Hoàng Văn Thạch",
+      "age": 26,
+      "gender": "Male",
+      "address": "Quảng Tr3",
+      "id": "3"
+    },
+    {
+      "id": "c9ca",
+      "name": "Cao Thị Miên",
+      "age": "20",
+      "gender": "Female",
+      "address": "Đà Nẵng"
+    },
+    {
+      "id": "45df",
+      "name": "Nguyễn Thị Thập",
+      "age": "32",
+      "gender": "Female",
+      "address": "Quảng Nam"
+    },
+    {
+      "id": "a1ff",
+      "name": "Trung",
+      "age": "11",
+      "gender": "nam",
+      "address": "11 nguyen tai"
+    }
+  ]
+}
